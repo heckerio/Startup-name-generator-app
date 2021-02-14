@@ -1,6 +1,6 @@
 # Startup name generator app
 
-A new Flutter project engineered by Henry Law JunWei. This project is used to write my first Flutter app via Flutter documentations, https://flutter.dev/docs/get-started/codelab
+A new Flutter project engineered by Henry Law JunWei. This project is used to write my first Flutter app via Flutter documentations, https://flutter.dev/docs/get-started/codelab. Do create a new issue if there's new bug.
 
 ## Getting Started
 
